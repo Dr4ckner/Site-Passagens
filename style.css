@@ -1,0 +1,31 @@
+
+header p{
+    color: #ffffff;
+    font-weight: 600;
+}
+section, footer {
+    margin: 40px;
+}
+h1{
+    font-size: 63px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color:brown;
+    font-weight: 600;
+}
+.slider{
+    margin: 0;
+}
+.carousel-caption h5 {
+    font-size: 80px;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-caption p {
+    text-shadow: 2px 2px 2px black;
+}
